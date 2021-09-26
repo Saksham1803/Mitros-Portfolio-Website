@@ -1,1 +1,5 @@
-<a href="https://www.google.com/imgres?imgurl=https%3A%2F%2Fstatic.scientificamerican.com%2Fsciam%2Fcache%2Ffile%2F1DDFE633-2B85-468D-B28D05ADAE7D1AD8_source.jpg%3Fw%3D590%26h%3D800%26D80F3D79-4382-49FA-BE4B4D0C62A5C3ED&imgrefurl=https%3A%2F%2Fwww.scientificamerican.com%2Fpodcast%2Fepisode%2Funread-books-at-home-still-spark-literacy-habits%2F&tbnid=79SOCMHf7w5ODM&vet=12ahUKEwjojYm9153zAhWqw3MBHQcDA6QQMygAegUIARDIAQ..i&docid=DUTn4ZoS2heroM&w=590&h=431&q=books&ved=2ahUKEwjojYm9153zAhWqw3MBHQcDA6QQMygAegUIARDIAQ"></a>
+Welcome to the portfolio of Team Mitros - Prateek, Saksham, Shruti and Snehith. This website is created as an assignment of WEBIO-IEEE web development bootcamp.
+
+
+![alt text](https://github.com/anandprateek/Mitros-Portfolio-Website/blob/main/index-page.PNG)
+
