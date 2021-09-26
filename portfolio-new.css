@@ -1,0 +1,41 @@
+body {
+    background: #008b8b;
+}
+
+h1 {
+    color:#e0ffff;
+    font-size: 50px;
+    font-family: "Open Sans", sans-serif;
+    margin: 150px 50px;
+    margin-bottom:0px;
+}
+
+h2 {
+    color: #e0ffff;
+    font-size: 30px;
+    font-family: "Open Sans", sans-serif;
+    margin-top: 10px;
+    margin-right: 0px;
+    margin-left: 52px;
+}
+
+.columns {
+    display: flex;
+}
+
+img {
+    height: 250px;
+    width: 200px;
+    margin: 5px 5px;
+    border-radius: 3%;
+    filter: gray;
+      -webkit-filter: grayscale(1);
+      -webkit-transition: all .8s ease-in-out;
+}
+
+img:hover {
+    filter: none;
+      -webkit-filter: grayscale(0);
+      -webkit-transform: scale(1.01);
+    }
+
